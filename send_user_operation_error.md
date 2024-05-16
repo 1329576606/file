@@ -3,7 +3,6 @@ curl:
 curl 'https://bundler.biconomy.io/api/v2/195/nJPK7B3ru.dd7f7861-190d-41bd-af80-6877f74b8f44' \
   -H 'accept: */*' \
   -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,zh-TW;q=0.5' \
-  -H 'authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJ7XCJhcHBJZFwiOlwiNTY0MDkyNzY5NjAyMTE0NzhcIixcImVvYUFkZHJlc3NcIjpcIjB4NDkwZGQzY2NjN2ZmOTQ4MjNkNGYxMGJiNmQ5N2M3ODAyOTU3ZTZiZlwiLFwib3NwQWRkcmVzc1wiOlwiMHhkM2ViNmNjNjViODkzOTM2MjZmNzJiNzk1ZGYwZTcwNTgyMDBhOWM4XCIsXCJzY29wZVwiOltcImZ1bGxcIl0sXCJzdGF0dXNcIjpcIklOQUNUSVZFXCJ9IiwiYXVkIjoiNTY0MDkyNzY5NjAyMTE0NzgiLCJvc3BBZGRyZXNzIjoiMHhkM2ViNmNjNjViODkzOTM2MjZmNzJiNzk1ZGYwZTcwNTgyMDBhOWM4IiwibmJmIjoxNzE1ODUwNTMxLCJpc3MiOiJodHRwczovL2Rldi5vcGVuc29jaWFsLndvcmsiLCJlb2FBZGRyZXNzIjoiMHg0OTBkZDNjY2M3ZmY5NDgyM2Q0ZjEwYmI2ZDk3Yzc4MDI5NTdlNmJmIiwiZXhwIjoxNzE2NTQ1MzMxLCJpYXQiOjE3MTU4NTA1MzEsInN0YXR1cyI6IklOQUNUSVZFIn0.iH2VSxgfU5flz_eJTomXaYLu57xf4LyIb4q07t9PUeRyUTD0NFbS4Q_wyUA-26LcyVUNFAfACYQ98yokE9BQsg' \
   -H 'cache-control: max-age=0' \
   -H 'content-type: application/json' \
   -H 'origin: http://localhost:3033' \
